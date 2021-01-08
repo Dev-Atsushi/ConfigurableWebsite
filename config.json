@@ -1,0 +1,12 @@
+{
+  "botname": "Rikka",
+  "botlogolink": "https://cdn.discordapp.com/avatars/732317922545893467/4fda03f7ab3febeab1909b99d44d55d9.png?size=2048",
+  "botavatarlink": "https://cdn.discordapp.com/avatars/732317922545893467/4fda03f7ab3febeab1909b99d44d55d9.png?size=2048",
+  "botdescription": "Heyo!, Rikka um bot pt-br, e um simples bot para discord, com funções centradas em Diversão, Moderação, Útilidade!",
+  "creatorname": "Atsushi❞#0012",
+  "creatoravatarlink": "https://cdn.discordapp.com/avatars/485088800540983299/a_d27b2c0915901cbd06b7b1f846e88459.gif?size=2048",
+  "supportserverinvite": "https://discord.gg/U22NFHyD",
+  "botinvitelink": "https://discord.com/oauth2/authorize?client_id=732317922545893467&permissions=1879436535&redirect_uri=http%3A%2F%2Frikkamanager.glitch.me%2F&scope=bot",
+  "prefix": "r!",
+  "language": "portuguese"
+}
