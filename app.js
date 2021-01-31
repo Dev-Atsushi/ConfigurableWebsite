@@ -1,17 +1,3 @@
-/* 
-{
-  "botname": "botname",
-  "botlogolink": "botlogolink",
-  "botavatarlink": "botavatarlink",
-  "botdescription": "botdescription",
-  "creatorname": "creatorname",
-  "creatoravatarlink": "creatoravatarlink",
-  "supportserverinvite": "supportserverinvite",
-  "botinvitelink": "botinvitelink"
-  "prefix": "prefix",
-  "language": "prefix"
-}
-*/
 const express  = require('express');
 
 const session  = require('express-session');
